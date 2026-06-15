@@ -28,11 +28,13 @@ I'm a full-stack developer passionate about building tools that help people crea
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepdusadh&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
-## 📌 My Projects
+## 🚀 My Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [ClipVexa](https://github.com/sandeepdusadh/clipvexa-frontend) | YouTube & Instagram downloader | Nuxt + FastAPI |
+| Project | Description | Status |
+|---------|-------------|--------|
+| **[ClipVexa](https://clipvexa.com)** | Free YouTube & Instagram downloader. No account required. 4K video, 320kbps MP3. | ✅ Live |
+
+[![ClipVexa](https://img.shields.io/badge/Website-clipvexa.com-7c3aed)](https://clipvexa.com)
 
 ## 📫 Connect
 
